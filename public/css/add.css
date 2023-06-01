@@ -1,0 +1,18 @@
+#input_msg {
+  padding: 1.2em;
+  border: 0;
+  border-radius: 0.7em;
+  background-color: antiquewhite;
+  font-size: 1em;
+}
+
+#btn_send {
+  padding: 1em;
+  width: 7em;
+  border: 0;
+  border-radius: 0.7em;
+  background-color: antiquewhite;
+  font-size: 1em;
+  margin-top: 2em;
+  color: rgb(27, 27, 27);
+}
